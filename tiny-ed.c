@@ -5,7 +5,7 @@
  *   Recreate basic 'ed' functionality with minimal code.
  * 
  * Author:
- *   Nroam Durham
+ *   Brian Durham
  *
  * Created:
  *   2025-04-28
